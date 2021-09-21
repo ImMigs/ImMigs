@@ -1,0 +1,5 @@
+- 💜 Miguel Azevedo
+- 🎂 08.11.2002
+- 👨‍💻 Java
+- 🕹️ GameMaker
+- 🌐 https://twitter.com/ImMigsss

@@ -1,5 +1,8 @@
+# BIOGRAFIA
 - 💜 Miguel Azevedo
 - 🎂 08.11.2002
 - 👨‍💻 Java
 - 🕹️ GameMaker
-- 🌐 https://twitter.com/ImMigsss
+# REDES SOCIAIS
+- [Twitter](https://twitter.com/ImMigsss)
+
